@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51503ad4.css",
+    "main.js": "/static/js/main.0e26f735.js",
+    "static/js/787.2a846285.chunk.js": "/static/js/787.2a846285.chunk.js",
+    "static/media/CharlieDisplay-Bold.ttf": "/static/media/CharlieDisplay-Bold.5a004353b62f47fcd234.ttf",
+    "static/media/left-loginsignup-hero.svg": "/static/media/left-loginsignup-hero.47238298680cf64177bdb1faa64d3804.svg",
+    "static/media/right-loginsignup-hero.svg": "/static/media/right-loginsignup-hero.3a2e83cef20d6bab2dbaf88d4a44819f.svg",
+    "static/media/Charlie_Display-Semibold.woff2": "/static/media/Charlie_Display-Semibold.cfcbe1a88be55ff55b67.woff2",
+    "static/media/Charlie_Text-Regular.woff2": "/static/media/Charlie_Text-Regular.28ac7e8155002e72c7d8.woff2",
+    "static/media/loader.svg": "/static/media/loader.24976c46bbf8be9db6632d95684435f7.svg",
+    "index.html": "/index.html",
+    "static/media/Tasklllo.svg": "/static/media/Tasklllo.df2f21fb5f8da7937f3d9ba85a6e5667.svg",
+    "main.51503ad4.css.map": "/static/css/main.51503ad4.css.map",
+    "main.0e26f735.js.map": "/static/js/main.0e26f735.js.map",
+    "787.2a846285.chunk.js.map": "/static/js/787.2a846285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51503ad4.css",
+    "static/js/main.0e26f735.js"
+  ]
+}

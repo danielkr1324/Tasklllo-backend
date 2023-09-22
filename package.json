@@ -1,0 +1,23 @@
+{
+  "name": "taskllo-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "server:dev": "nodemon server.js",
+    "server:prod": "set NODE_ENV=production&&node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.8.1"
+  }
+}
