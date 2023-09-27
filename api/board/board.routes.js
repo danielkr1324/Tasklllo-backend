@@ -19,7 +19,7 @@ router.get("/", requireAuth, getBoards)
 router.get("/:id", requireAuth, getBoardById)
 router.post("/", requireAuth, addBoard)
 router.put("/:id", updateBoard)
-router.delete("/:id", removeBoard)
+router.delete("/:id", requireAuth, removeBoard)
 // router.delete('/:id', requireAuth, requireAdmin, removeBoard)
 
 module.exports = router
